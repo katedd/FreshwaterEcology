@@ -1,4 +1,4 @@
-Parameter,Temp,pH,DO,DoSat,Conductivity ,Turbitity,Alkalinity,CO2,Ammonia,Nitrate ,Nitrite ,OrthoP
+Parameter,Temp,pH,DO,DoSat,Conductivity,Turbitity,Alkalinity,CO2,Ammonia,Nitrate,Nitrite,OrthoP
 March,7,7.3,7,63,105,23,28,5,0.22,0,0.002,0.38
 April,12,7.6,6.7,61,210,24,43,2,0.26,0,0.019,0.3
 May,14,7,2.9,27,320,26,60,11,0.41,0.39,0.039,0.28
